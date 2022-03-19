@@ -1,0 +1,7 @@
+E:\third_Year\Design Pattern\Lab\Exercise\Lab1\Prototype Realworld\bin\Debug\Prototype Realworld.exe.config
+E:\third_Year\Design Pattern\Lab\Exercise\Lab1\Prototype Realworld\bin\Debug\Prototype Realworld.exe
+E:\third_Year\Design Pattern\Lab\Exercise\Lab1\Prototype Realworld\bin\Debug\Prototype Realworld.pdb
+E:\third_Year\Design Pattern\Lab\Exercise\Lab1\Prototype Realworld\obj\Debug\Prototype Realworld.csproj.SuggestedBindingRedirects.cache
+E:\third_Year\Design Pattern\Lab\Exercise\Lab1\Prototype Realworld\obj\Debug\Prototype Realworld.csproj.CoreCompileInputs.cache
+E:\third_Year\Design Pattern\Lab\Exercise\Lab1\Prototype Realworld\obj\Debug\Prototype Realworld.exe
+E:\third_Year\Design Pattern\Lab\Exercise\Lab1\Prototype Realworld\obj\Debug\Prototype Realworld.pdb

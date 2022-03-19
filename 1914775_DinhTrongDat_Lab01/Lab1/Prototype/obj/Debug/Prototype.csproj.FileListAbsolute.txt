@@ -1,0 +1,7 @@
+E:\third_Year\Design Pattern\Lab\Exercise\Lab1\Prototype\bin\Debug\Prototype.exe.config
+E:\third_Year\Design Pattern\Lab\Exercise\Lab1\Prototype\bin\Debug\Prototype.exe
+E:\third_Year\Design Pattern\Lab\Exercise\Lab1\Prototype\bin\Debug\Prototype.pdb
+E:\third_Year\Design Pattern\Lab\Exercise\Lab1\Prototype\obj\Debug\Prototype.csproj.SuggestedBindingRedirects.cache
+E:\third_Year\Design Pattern\Lab\Exercise\Lab1\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+E:\third_Year\Design Pattern\Lab\Exercise\Lab1\Prototype\obj\Debug\Prototype.exe
+E:\third_Year\Design Pattern\Lab\Exercise\Lab1\Prototype\obj\Debug\Prototype.pdb

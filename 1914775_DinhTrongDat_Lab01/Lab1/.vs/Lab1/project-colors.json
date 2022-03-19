@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6a67b9d5-ea5e-4d7e-be63-388fd0fde8c9": {
+      "ProjectGuid": "6a67b9d5-ea5e-4d7e-be63-388fd0fde8c9",
+      "DisplayName": "Lab1",
+      "ColorIndex": 0
+    },
+    "995293a1-2474-4064-828c-02cde5726374": {
+      "ProjectGuid": "995293a1-2474-4064-828c-02cde5726374",
+      "DisplayName": "Abstract Factory",
+      "ColorIndex": 1
+    },
+    "aa7c851a-9a78-4d8b-8ea3-227e22ce12db": {
+      "ProjectGuid": "aa7c851a-9a78-4d8b-8ea3-227e22ce12db",
+      "DisplayName": "Abstract Factory Realworld",
+      "ColorIndex": 2
+    },
+    "5b3e7cf2-fe09-4295-9154-d5c2fcb859ab": {
+      "ProjectGuid": "5b3e7cf2-fe09-4295-9154-d5c2fcb859ab",
+      "DisplayName": "Builder",
+      "ColorIndex": 3
+    },
+    "dbdb8b54-6cf4-48ee-bb08-b785f0878211": {
+      "ProjectGuid": "dbdb8b54-6cf4-48ee-bb08-b785f0878211",
+      "DisplayName": "Builder Realworld",
+      "ColorIndex": 4
+    },
+    "09ec6ada-2825-4bf7-8eb1-19c322c25c53": {
+      "ProjectGuid": "09ec6ada-2825-4bf7-8eb1-19c322c25c53",
+      "DisplayName": "Factory method",
+      "ColorIndex": 5
+    },
+    "34b79666-5703-4966-9c4f-34e31aa828e2": {
+      "ProjectGuid": "34b79666-5703-4966-9c4f-34e31aa828e2",
+      "DisplayName": "Factory method Realworld",
+      "ColorIndex": 6
+    },
+    "c6cbca0a-9eeb-4677-b37d-31bc633df007": {
+      "ProjectGuid": "c6cbca0a-9eeb-4677-b37d-31bc633df007",
+      "DisplayName": "Prototype",
+      "ColorIndex": 7
+    },
+    "588f031d-54ba-46a0-894b-cc113858cf34": {
+      "ProjectGuid": "588f031d-54ba-46a0-894b-cc113858cf34",
+      "DisplayName": "Prototype Realworld",
+      "ColorIndex": 8
+    },
+    "5394610d-d80e-48fd-a13f-f0245fff0a13": {
+      "ProjectGuid": "5394610d-d80e-48fd-a13f-f0245fff0a13",
+      "DisplayName": "Singleton",
+      "ColorIndex": 9
+    },
+    "b1ca62f8-9c71-4ab8-84c2-d83ae5a4064a": {
+      "ProjectGuid": "b1ca62f8-9c71-4ab8-84c2-d83ae5a4064a",
+      "DisplayName": "Singleton Realworld",
+      "ColorIndex": 10
+    },
+    "49dc66f5-29d0-4665-ae57-b4ad86d89922": {
+      "ProjectGuid": "49dc66f5-29d0-4665-ae57-b4ad86d89922",
+      "DisplayName": "Singleton optimized",
+      "ColorIndex": 11
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 12
+}

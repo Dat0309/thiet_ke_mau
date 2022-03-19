@@ -1,0 +1,7 @@
+E:\third_Year\Design Pattern\Lab\Exercise\Lab1\Singleton\bin\Debug\Singleton.exe.config
+E:\third_Year\Design Pattern\Lab\Exercise\Lab1\Singleton\bin\Debug\Singleton.exe
+E:\third_Year\Design Pattern\Lab\Exercise\Lab1\Singleton\bin\Debug\Singleton.pdb
+E:\third_Year\Design Pattern\Lab\Exercise\Lab1\Singleton\obj\Debug\Singleton.csproj.SuggestedBindingRedirects.cache
+E:\third_Year\Design Pattern\Lab\Exercise\Lab1\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+E:\third_Year\Design Pattern\Lab\Exercise\Lab1\Singleton\obj\Debug\Singleton.exe
+E:\third_Year\Design Pattern\Lab\Exercise\Lab1\Singleton\obj\Debug\Singleton.pdb
