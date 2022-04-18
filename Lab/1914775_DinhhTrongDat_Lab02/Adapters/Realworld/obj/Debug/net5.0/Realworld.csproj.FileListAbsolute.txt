@@ -1,0 +1,15 @@
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapters\Realworld\bin\Debug\net5.0\Realworld.exe
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapters\Realworld\bin\Debug\net5.0\Realworld.deps.json
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapters\Realworld\bin\Debug\net5.0\Realworld.runtimeconfig.json
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapters\Realworld\bin\Debug\net5.0\Realworld.runtimeconfig.dev.json
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapters\Realworld\bin\Debug\net5.0\Realworld.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapters\Realworld\bin\Debug\net5.0\ref\Realworld.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapters\Realworld\bin\Debug\net5.0\Realworld.pdb
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapters\Realworld\obj\Debug\net5.0\Realworld.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapters\Realworld\obj\Debug\net5.0\Realworld.AssemblyInfoInputs.cache
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapters\Realworld\obj\Debug\net5.0\Realworld.AssemblyInfo.cs
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapters\Realworld\obj\Debug\net5.0\Realworld.csproj.CoreCompileInputs.cache
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapters\Realworld\obj\Debug\net5.0\Realworld.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapters\Realworld\obj\Debug\net5.0\ref\Realworld.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapters\Realworld\obj\Debug\net5.0\Realworld.pdb
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapters\Realworld\obj\Debug\net5.0\Realworld.genruntimeconfig.cache

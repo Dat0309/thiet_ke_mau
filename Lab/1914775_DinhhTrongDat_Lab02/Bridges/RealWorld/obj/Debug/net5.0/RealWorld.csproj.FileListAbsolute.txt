@@ -1,0 +1,15 @@
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Bridges\RealWorld\bin\Debug\net5.0\RealWorld.exe
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Bridges\RealWorld\bin\Debug\net5.0\RealWorld.deps.json
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Bridges\RealWorld\bin\Debug\net5.0\RealWorld.runtimeconfig.json
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Bridges\RealWorld\bin\Debug\net5.0\RealWorld.runtimeconfig.dev.json
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Bridges\RealWorld\bin\Debug\net5.0\RealWorld.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Bridges\RealWorld\bin\Debug\net5.0\ref\RealWorld.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Bridges\RealWorld\bin\Debug\net5.0\RealWorld.pdb
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Bridges\RealWorld\obj\Debug\net5.0\RealWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Bridges\RealWorld\obj\Debug\net5.0\RealWorld.AssemblyInfoInputs.cache
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Bridges\RealWorld\obj\Debug\net5.0\RealWorld.AssemblyInfo.cs
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Bridges\RealWorld\obj\Debug\net5.0\RealWorld.csproj.CoreCompileInputs.cache
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Bridges\RealWorld\obj\Debug\net5.0\RealWorld.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Bridges\RealWorld\obj\Debug\net5.0\ref\RealWorld.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Bridges\RealWorld\obj\Debug\net5.0\RealWorld.pdb
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Bridges\RealWorld\obj\Debug\net5.0\RealWorld.genruntimeconfig.cache

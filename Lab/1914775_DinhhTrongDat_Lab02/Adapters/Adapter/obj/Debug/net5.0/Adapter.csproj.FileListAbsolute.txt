@@ -1,0 +1,16 @@
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapter\bin\Debug\net5.0\Adapter.exe
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapter\bin\Debug\net5.0\Adapter.deps.json
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.json
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.dev.json
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapter\bin\Debug\net5.0\Adapter.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapter\bin\Debug\net5.0\ref\Adapter.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapter\bin\Debug\net5.0\Adapter.pdb
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapter\obj\Debug\net5.0\Adapter.csproj.AssemblyReference.cache
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapter\obj\Debug\net5.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfoInputs.cache
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfo.cs
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapter\obj\Debug\net5.0\Adapter.csproj.CoreCompileInputs.cache
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapter\obj\Debug\net5.0\Adapter.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapter\obj\Debug\net5.0\ref\Adapter.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapter\obj\Debug\net5.0\Adapter.pdb
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Adapter\obj\Debug\net5.0\Adapter.genruntimeconfig.cache

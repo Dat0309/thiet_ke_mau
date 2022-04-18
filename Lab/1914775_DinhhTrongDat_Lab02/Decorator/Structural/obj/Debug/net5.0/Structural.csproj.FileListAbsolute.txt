@@ -1,0 +1,15 @@
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Decorator\Structural\bin\Debug\net5.0\Structural.exe
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Decorator\Structural\bin\Debug\net5.0\Structural.deps.json
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Decorator\Structural\bin\Debug\net5.0\Structural.runtimeconfig.json
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Decorator\Structural\bin\Debug\net5.0\Structural.runtimeconfig.dev.json
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Decorator\Structural\bin\Debug\net5.0\Structural.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Decorator\Structural\bin\Debug\net5.0\ref\Structural.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Decorator\Structural\bin\Debug\net5.0\Structural.pdb
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Decorator\Structural\obj\Debug\net5.0\Structural.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Decorator\Structural\obj\Debug\net5.0\Structural.AssemblyInfoInputs.cache
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Decorator\Structural\obj\Debug\net5.0\Structural.AssemblyInfo.cs
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Decorator\Structural\obj\Debug\net5.0\Structural.csproj.CoreCompileInputs.cache
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Decorator\Structural\obj\Debug\net5.0\Structural.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Decorator\Structural\obj\Debug\net5.0\ref\Structural.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Decorator\Structural\obj\Debug\net5.0\Structural.pdb
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhhTrongDat_Lab02\Decorator\Structural\obj\Debug\net5.0\Structural.genruntimeconfig.cache
