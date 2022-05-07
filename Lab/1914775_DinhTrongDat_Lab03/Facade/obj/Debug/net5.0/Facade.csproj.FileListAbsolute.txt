@@ -1,0 +1,16 @@
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade\bin\Debug\net5.0\Facade.exe
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade\bin\Debug\net5.0\Facade.deps.json
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade\bin\Debug\net5.0\Facade.runtimeconfig.json
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade\bin\Debug\net5.0\Facade.runtimeconfig.dev.json
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade\bin\Debug\net5.0\Facade.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade\bin\Debug\net5.0\ref\Facade.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade\bin\Debug\net5.0\Facade.pdb
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade\obj\Debug\net5.0\Facade.csproj.AssemblyReference.cache
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade\obj\Debug\net5.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade\obj\Debug\net5.0\Facade.AssemblyInfoInputs.cache
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade\obj\Debug\net5.0\Facade.AssemblyInfo.cs
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade\obj\Debug\net5.0\Facade.csproj.CoreCompileInputs.cache
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade\obj\Debug\net5.0\Facade.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade\obj\Debug\net5.0\ref\Facade.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade\obj\Debug\net5.0\Facade.pdb
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade\obj\Debug\net5.0\Facade.genruntimeconfig.cache

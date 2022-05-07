@@ -1,0 +1,15 @@
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade_realWord\bin\Debug\net5.0\Facade_realWord.exe
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade_realWord\bin\Debug\net5.0\Facade_realWord.deps.json
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade_realWord\bin\Debug\net5.0\Facade_realWord.runtimeconfig.json
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade_realWord\bin\Debug\net5.0\Facade_realWord.runtimeconfig.dev.json
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade_realWord\bin\Debug\net5.0\Facade_realWord.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade_realWord\bin\Debug\net5.0\ref\Facade_realWord.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade_realWord\bin\Debug\net5.0\Facade_realWord.pdb
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade_realWord\obj\Debug\net5.0\Facade_realWord.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade_realWord\obj\Debug\net5.0\Facade_realWord.AssemblyInfoInputs.cache
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade_realWord\obj\Debug\net5.0\Facade_realWord.AssemblyInfo.cs
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade_realWord\obj\Debug\net5.0\Facade_realWord.csproj.CoreCompileInputs.cache
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade_realWord\obj\Debug\net5.0\Facade_realWord.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade_realWord\obj\Debug\net5.0\ref\Facade_realWord.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade_realWord\obj\Debug\net5.0\Facade_realWord.pdb
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Facade_realWord\obj\Debug\net5.0\Facade_realWord.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Proxy_structural\bin\Debug\net5.0\Proxy_structural.exe
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Proxy_structural\bin\Debug\net5.0\Proxy_structural.deps.json
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Proxy_structural\bin\Debug\net5.0\Proxy_structural.runtimeconfig.json
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Proxy_structural\bin\Debug\net5.0\Proxy_structural.runtimeconfig.dev.json
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Proxy_structural\bin\Debug\net5.0\Proxy_structural.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Proxy_structural\bin\Debug\net5.0\ref\Proxy_structural.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Proxy_structural\bin\Debug\net5.0\Proxy_structural.pdb
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Proxy_structural\obj\Debug\net5.0\Proxy_structural.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Proxy_structural\obj\Debug\net5.0\Proxy_structural.AssemblyInfoInputs.cache
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Proxy_structural\obj\Debug\net5.0\Proxy_structural.AssemblyInfo.cs
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Proxy_structural\obj\Debug\net5.0\Proxy_structural.csproj.CoreCompileInputs.cache
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Proxy_structural\obj\Debug\net5.0\Proxy_structural.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Proxy_structural\obj\Debug\net5.0\ref\Proxy_structural.dll
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Proxy_structural\obj\Debug\net5.0\Proxy_structural.pdb
+E:\NAM3_KY2\thiet_ke_mau\Lab\1914775_DinhTrongDat_Lab03\Proxy_structural\obj\Debug\net5.0\Proxy_structural.genruntimeconfig.cache
